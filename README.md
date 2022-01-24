@@ -13,3 +13,6 @@ Conteúdo: Introdução ao Git:  Conceitos básicos (clone, add, ignore, commit,
 Conteúdo:
 Fluxo 1 - Primeiros passos: criando conta, criando repositório, criando Readme e criando time. 
 Fluxo 2 - Trabalhando em projetos abertos: Dando fork em outro projeto, efetuando as modificações e abrindo pull request.
+
+## Video 4: Github para Gestão de Projetos e Empreendedores: Estratégias de Gestão Aplicadas.
+Conteúdo: Adicionar colaboradores para gerir o projeto com técnicas de gestão, incluindo Scrum e Kanban, dentro do GitHub com cards e issues. Visualizar modificações feitas por cada colaborador e revisão do trabalho.
